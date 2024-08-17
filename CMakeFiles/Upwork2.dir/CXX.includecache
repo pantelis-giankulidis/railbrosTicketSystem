@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pantelisg/Documents/railbrosTicketSystem/Upwork2.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+Upwork2.h
+/home/pantelisg/Documents/railbrosTicketSystem/Upwork2.h
+
+/home/pantelisg/Documents/railbrosTicketSystem/Upwork2.h
+string
+-
+sstream
+-
+vector
+-
+set
+-
+

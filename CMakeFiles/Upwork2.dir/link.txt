@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Upwork2.dir/Upwork2.cpp.o  -o Upwork2 

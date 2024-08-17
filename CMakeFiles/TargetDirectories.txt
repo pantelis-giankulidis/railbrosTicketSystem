@@ -1,0 +1,3 @@
+/home/pantelisg/Documents/railbrosTicketSystem/CMakeFiles/rebuild_cache.dir
+/home/pantelisg/Documents/railbrosTicketSystem/CMakeFiles/edit_cache.dir
+/home/pantelisg/Documents/railbrosTicketSystem/CMakeFiles/Upwork2.dir
