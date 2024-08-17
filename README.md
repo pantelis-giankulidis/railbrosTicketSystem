@@ -8,6 +8,7 @@ configurations necessary.
 ### Compiling the source code
 cd to the directory you have saved the project and type in the command prompt, for windows,linux and Mac.
 
-> g++ Upwork2.cpp
+> gcc -Wall -Wextra -Werror -c main.cpp -o main.o
+     ^^^^^^^^^^^^^^^^^^^^ <- For listing all warnings when your code is compiled.
 
 You must have the <a href="https://gcc.gnu.org/install/download.html">gcc compiler</a> installed
